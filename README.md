@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning **Laraval**
-- 👨‍💻 All of my projects are available at [https://nazzer.dev/](https://nazzer.dev/)
+- 👨‍💻 All of my projects are available [here](https://github.com/nazzer23?tab=repositories)
 - 📫 How to reach me **ben@nazzer.dev**
 
 <h3 align="left">Connect with me:</h3>
