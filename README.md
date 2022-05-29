@@ -1,4 +1,3 @@
-- 🌱 I’m currently learning **Java SpringBoot**
 - 👨‍💻 All of my projects are available [here](https://github.com/nazzer23?tab=repositories)
 - 📫 How to reach me **ben@nazzer.dev**
 
